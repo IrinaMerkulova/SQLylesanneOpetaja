@@ -1,5 +1,5 @@
 ﻿Дополни SQL запрос, добавь условие, что из таблицы laps будут отображаться только дети, 
 чье имя(nimi) начинается на А.
 
-SELECT * FROM ...
-WHERE ....
+SELECT * FROM laps
+WHERE laps like "A%"
