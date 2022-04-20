@@ -2,4 +2,4 @@
 чье имя(nimi) начинается на А.
 
 SELECT * FROM laps
-WHERE nimi LIKE "%A"
+WHERE nimi LIKE "%A";
