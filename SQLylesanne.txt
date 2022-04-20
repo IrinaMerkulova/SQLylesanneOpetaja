@@ -2,4 +2,4 @@
 чей рост (pikkus) больше чем 150 см.
 
 SELECT * FROM laps
-WHERE pikkus > 150
+WHERE pikkus > 150 
