@@ -2,4 +2,4 @@
 чье имя(nimi) оканчивается буквой А.
 
 SELECT * FROM laps
-WHERE nimi = A%
+WHERE nimi = A% 
